@@ -1,0 +1,6 @@
+rootProject.name = 'micropos'
+
+include 'products'
+include 'carts'
+include 'discovery'
+include 'gateway'

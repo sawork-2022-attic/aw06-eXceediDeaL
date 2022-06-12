@@ -1,0 +1,10 @@
+server:
+  port: 9006
+project:
+  version: "0.1.0"
+spring:
+  application:
+    name: "carts"
+springdoc:
+  swagger-ui:
+    use-root-path: true
